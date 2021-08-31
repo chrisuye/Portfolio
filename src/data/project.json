@@ -1,0 +1,68 @@
+{
+    "projects": [
+        {
+            "name": "React",
+            "project": [
+                {
+                    "name": "Tip",
+                    "description": "A simple tip calculator",
+                    "url": "https://github.com/chrisuye/Tip",
+                    "image": "https://raw.githubusercontent.com/chrisuye/Tip/master/screenshot.png",
+                    "website": "https://chrisuye.github.io/Tip/"
+                },
+                {
+                    "name": "GeneratePassword",
+                    "description": "A simple password generator",
+                    "url": "https://github.com/chrisuye/GeneratePassword",
+                    "image": "https://raw.githubusercontent.com/chrisuye/GeneratePassword/master/screenshot.png",
+                    "website": "https://chrisuye.github.io/GeneratePassword/"
+                },
+                {
+                    "name": "Hangman",
+                    "description": "A simple hangman game",
+                    "url": "https://github.com/chrisuye/Hangman_React",
+                    "image": "https://raw.githubusercontent.com/chrisuye/Hangman_React/master/screenshot.png",
+                    "website": "https://chrisuye.github.io/Hangman_React/"
+                },
+                {
+                    "name": "Instagram",
+                    "description": "A simple instagram clone",
+                    "url": "https://github.com/chrisuye/Instagram_Clone",
+                    "image": "https://raw.githubusercontent.com/chrisuye/Instagram_Clone/master/screenshot.png",
+                    "website": null
+                }
+            ]
+        }, 
+        {
+            "name": "Angular",
+            "project": [
+                {
+                    "name": "The Aces Grocery Shopping Application",
+                    "description": "The Aces Grocery Shopping Application",
+                    "url": "https://github.com/chrisuye/TCS_Capstone_Project#the-aces-grocery-shopping-application",
+                    "image": null,
+                    "website": null
+                }
+            ]
+        },
+        {
+            "name": "Android",
+            "project": [
+                {
+                    "name": "Hangman",
+                    "description": "A simple hangman game",
+                    "url": "https://github.com/chrisuye/Hangman_React",
+                    "image": null,
+                    "website": null
+                },
+                {
+                    "name": "Workout",
+                    "description": "A simple workout app",
+                    "url": "https://github.com/chrisuye/Workout",
+                    "image": null,
+                    "website": null
+                }
+            ]
+        }
+    ]
+}
