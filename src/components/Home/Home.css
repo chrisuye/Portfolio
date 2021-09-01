@@ -1,0 +1,75 @@
+.Home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Home-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    width: 70%;
+    margin-top: 100px;
+}
+
+.Home-img .Home-Header {
+    float: left;
+    margin-right: 10px;
+}
+
+.Home-Header {
+    width: 50%;
+    height: 100%;
+}
+
+.Home-img {
+    width: 50%;
+}
+
+.Home-container {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+p.Header {
+    font-size: 1em;
+    color: rgb(110, 121, 136);
+    margin-top: 20px;
+}
+
+strong.Header {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: rgb(125, 71, 215);
+}
+
+p.Name {
+    font-size: 2em;
+}
+
+span.Name {
+    color: rgb(124,71,215);
+}
+
+img.profile {
+    width: 60%;
+    height: 60%;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px rgb(215, 201, 238);
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(124,71,215);
+}
