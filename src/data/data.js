@@ -18,6 +18,10 @@ export const data = {
     image: Profile,
     contact: [
         {
+            image: "fas fa-file",
+            link: "https://drive.google.com/file/d/1NMf2DbW5wcN1TgaBjiuTjWF9cqJrIIjN/view?usp=sharing"
+        },
+        {
             image: "fab fa-linkedin",
             link: "https://www.linkedin.com/in/chrisuye/"
         },

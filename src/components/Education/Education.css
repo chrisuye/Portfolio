@@ -5,16 +5,18 @@
     background-color: rgb(255, 2555, 255);
     border-radius: 20px;
     padding: 10px;
+    text-align: center;
+    width: 100%;
 }
 
 .Home-education-item {
-    float: left;
     border-radius: 10px;
-    padding: 15px;
-    margin: 55px;
+    padding: 10px;
+    margin: 10px;
     box-shadow: 10px 10px 10px rgb(246, 246, 246);
     border: 2px solid rgb(246, 246, 246);
-    width: 40%;
+    width: 98%;
+    text-align: center;
 }
 
 .Home-education-info {

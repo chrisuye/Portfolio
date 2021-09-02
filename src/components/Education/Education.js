@@ -4,7 +4,7 @@ import './Education.css'
 const Education = ({ education }) => {
     return (
         <div className="Home-education" id='education'>
-            <h3>Education</h3>
+            <h3>EDUCATION</h3>
                 {education.map((education, index) => {
                     return (
                         <div className="Home-education-item" key={index}>

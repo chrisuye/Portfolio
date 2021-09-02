@@ -16,7 +16,7 @@ const Navbar = () => {
             </div>
             <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                 {MenuItems.map((item, index) => 
-                    <li key={index}>
+                    <li key={index} onClick={() => handleClick()}>
                         <a className={item.cName} href={item.link}>{item.title}</a>
                     </li>
                 )}

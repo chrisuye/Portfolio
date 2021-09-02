@@ -73,3 +73,48 @@ a {
     text-decoration: none;
     color: rgb(124,71,215);
 }
+
+.Resume {
+    background-color: rgb(124,71,215);
+    border: none;
+    border-radius: 20px;
+    padding: 5px;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 700px) {
+    .Home-container {
+        width: 100%;
+    }
+    .Home-img {
+        margin-right: 10px;
+    }
+
+    img.profile {
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        box-shadow: 10px 10px 10px rgb(215, 201, 238);
+    }
+
+    .Home-Header {
+        width: 100%;
+    }
+
+    .Home-img .Home-Header {
+        float: none;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .Home-img {
+        display: none;
+    }
+
+    .Home-container {
+        width: 100%;
+        text-align: center;
+    }
+}

@@ -1,6 +1,6 @@
 .NavbarItems {
     background: linear-gradient(90deg, rgb(111,64,193) 0%, rgb(124,71,215) 100%);
-    height: 80px;
+    height: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -101,7 +101,7 @@
         position: absolute;
         top: 0;
         right: 0;
-        transform: translate(-100%, 60%);
+        transform: translate(-10%, 50%);
         font-size: 1.8rem;
         cursor: pointer;
     }

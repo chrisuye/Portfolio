@@ -4,7 +4,7 @@ import './Skill.css'
 const Skill = ({ skills }) => {
     return (
         <div className="Home-skills" id='skill'> 
-            <h3>Skills</h3>
+            <h3>SKILLS</h3>
                 {skills.map((skill, index) => {
                     return (
                         <div className="Home-skill" key={index}>
